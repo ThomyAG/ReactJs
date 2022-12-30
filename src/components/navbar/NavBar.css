@@ -1,0 +1,37 @@
+/* .navBar {
+    background-color: black;
+    color: white;
+} */
+
+* nav {
+    width: 100%;
+    display: flex;
+    background-color: rgb(191, 100, 21);
+    color: white;
+}
+
+* nav a {
+    width: 20%;
+}
+
+
+#navBar {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1%;
+}
+
+#navBar ul {
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#navBar ul li {
+    font-size: 1.5rem;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}

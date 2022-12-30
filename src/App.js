@@ -18,6 +18,9 @@ function App() {
           Learn React
         </a>
       </header>
+      <body>
+        <p>HOLA ESTE ES MI PRIMER DEPLOY EN REACTJS </p>
+      </body>
     </div>
   );
 }
